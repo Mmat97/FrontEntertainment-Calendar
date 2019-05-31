@@ -12,22 +12,31 @@ Release_Date_Calendar
 2.
 
 
+
+
+
+
 ## Tools/Languages/References
 **Language:** 
 
--Python Version 2.7
-[Python Website](https://www.python.org/)
+-Javascript
 
 **Libraries:** 
 
--Beautiful Soup
-[BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+-React
+[React](https://reactjs.org/)
 
 
 
 **OS Used:** 
 
 -Mac OS(Terminal)
+
+**Editors:** 
+-TextWrangler
+-Microsoft Visual Studio Version 1.3
+
+
 
 
 ## Installation and how to Run 
